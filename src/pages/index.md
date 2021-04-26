@@ -10,7 +10,6 @@ sections:
     actions:
       - type: action
         label: Try Free
-        url: /pricing
         style: primary
       - type: action
         label: Learn More
