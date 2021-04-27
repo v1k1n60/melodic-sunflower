@@ -11,7 +11,7 @@ sections:
       - type: action
         label: Try Free
         style: primary
-        url: /
+        url: /pricing
       - type: action
         label: Learn More
         url: /features
