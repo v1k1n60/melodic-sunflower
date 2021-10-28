@@ -166,7 +166,7 @@ sections:
         image_align: left
         image_has_padding: true
       - type: grid_item
-        title: Section Item 2
+        title: Innovación
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
