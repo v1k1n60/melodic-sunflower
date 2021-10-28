@@ -191,10 +191,10 @@ sections:
       - type: grid_item
         title: Una mejor web
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Nos interesa que tu sitio web, además de ser atractivo para tus
+          clientes, sea seguro, performante y tenga las mejores prácticas en lo
+          que al uso de la tecnología se refiere.
         content_align: left
         actions:
           - type: action
