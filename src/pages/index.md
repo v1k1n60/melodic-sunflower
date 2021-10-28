@@ -94,7 +94,7 @@ sections:
           Trabajemos juntos, hagamos #Sinergia
         actions:
           - type: action
-            label: Learn More
+            label: Leer mas...
             url: /style-guide
             style: primary
             has_icon: true
