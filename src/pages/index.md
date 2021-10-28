@@ -166,7 +166,7 @@ sections:
         image_align: left
         image_has_padding: true
       - type: grid_item
-        title: Innovación
+        title: 'Innovar, innovar'
         title_align: left
         content: >
           Conocidos son los beneficios de aplicar método y técnicas a la
