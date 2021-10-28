@@ -18,7 +18,7 @@ sections:
         label: Learn More
         url: /features
         style: secondary
-    image: /images/emprende.jpg
+    image: /images/classic/post-3.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
