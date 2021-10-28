@@ -147,8 +147,8 @@ sections:
         title: Negocio
         title_align: left
         content: >
-          Utilizando herramientas como el **Opportunity Canvas** te ayudamos a
-          analizar esa idea que no te deja dormir y de verdad quieres
+          Utilizando herramientas como el **Opportunity Canvas** te asesoramos y
+          ayudamos a analizar esa idea que no te deja dormir y de verdad quieres
           implementar
         content_align: left
         actions:
