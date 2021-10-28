@@ -144,7 +144,7 @@ sections:
     subtitle: Grid Section Example
     grid_items:
       - type: grid_item
-        title: Oportunidad
+        title: Negocio
         title_align: left
         content: >
           Utilizando herramientas como el **Opportunity Canvas** te ayudamos a
