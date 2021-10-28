@@ -169,9 +169,9 @@ sections:
         title: Innovación
         title_align: left
         content: >
-          Conocidos son los beneficios de aplica método y técnicas a la
+          Conocidos son los beneficios de aplicar método y técnicas a la
           innovación, es por esto que a través de distintos procesos y dinámicas
-          navegamos para descubrir el potencial para un nuevo producto o
+          navegamos juntos para descubrir el potencial de un nuevo producto o
           servicio.
         content_align: left
         actions:
