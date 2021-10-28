@@ -132,7 +132,7 @@ sections:
         title: >-
           “Nunca antes me habían ayudado tanto a definir qué es y qué no es lo
           que hago, eso me permitió poner foco en el core del negocio.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Marcela Benavides, CEO en Smartybell'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
