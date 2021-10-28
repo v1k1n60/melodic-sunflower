@@ -130,8 +130,8 @@ sections:
     features:
       - type: feature
         title: >-
-          “Nunca antes me habían ayudado tanto a definir qué es y qué no es lo
-          que hago, eso me permitió poner foco en el core del negocio.”
+          “Mas que un negocio, Sinergia es una red de profesionales unidos con
+          la convicción de que colaborar es el pegamento que todo une.”
         subtitle: 'Ruth Pizarro, CEO en SinergiaEmprendedores'
         image: /images/Screenshot from 2021-10-28 00-52-13.png
         image_alt: Brandon Guidelines
