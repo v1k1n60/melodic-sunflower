@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Sinergia Emprendedores
-    subtitle: Optional hero section subtitle
+    subtitle: 'Somos una frecuencia, vibra con nosotros.'
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
