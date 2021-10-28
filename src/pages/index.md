@@ -144,7 +144,7 @@ sections:
     subtitle: Grid Section Example
     grid_items:
       - type: grid_item
-        title: Section Item 1
+        title: Oportunidad
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
