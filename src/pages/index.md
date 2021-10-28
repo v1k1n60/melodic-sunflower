@@ -168,10 +168,11 @@ sections:
       - type: grid_item
         title: Innovación
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Conocidos son los beneficios de aplica método y técnicas a la
+          innovación, es por esto que a través de distintos procesos y dinámicas
+          navegamos para descubrir el potencial para un nuevo producto o
+          servicio.
         content_align: left
         actions:
           - type: action
