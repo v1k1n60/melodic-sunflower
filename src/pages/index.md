@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Sinergia
+    title: Sinergia Emprendedores
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
