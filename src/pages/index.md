@@ -87,10 +87,11 @@ sections:
         media_width: fifty
       - type: feature
         title: 'Nuestro equipo, tu equipo'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Sabemos lo importante que es tener un equipo confiable para poder
+          desarrollar cualquier idea o proyecto, es por eso que podemos a tu
+          disposición toda la experiencia de nuestro consolidado equipo.
+          Trabajemos juntos, hagamos #Sinergia
         actions:
           - type: action
             label: Learn More
