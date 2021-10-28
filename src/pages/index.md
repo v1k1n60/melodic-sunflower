@@ -146,10 +146,10 @@ sections:
       - type: grid_item
         title: Oportunidad
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Utilizando herramientas como el **Opportunity Canvas** te ayudamos a
+          analizar esa idea que no te deja dormir y de verdad quieres
+          implementar
         content_align: left
         actions:
           - type: action
