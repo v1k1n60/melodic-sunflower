@@ -4,9 +4,11 @@ sections:
   - type: hero_section
     title: Sinergia Emprendedores
     subtitle: 'Somos una frecuencia, vibra con nosotros.'
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Sabemos lo importante que es tener un equipo confiable para poder
+      desarrollar cualquier idea o proyecto, es por eso que podemos a tu
+      disposición toda la experiencia de nuestro consolidado equipo. Trabajemos
+      juntos, hagamos #Sinergia
     actions:
       - type: action
         label: Try Free
