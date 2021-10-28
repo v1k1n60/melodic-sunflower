@@ -133,7 +133,7 @@ sections:
           “Nunca antes me habían ayudado tanto a definir qué es y qué no es lo
           que hago, eso me permitió poner foco en el core del negocio.”
         subtitle: 'Ruth Pizarro, CEO en SinergiaEmprendedores'
-        image: /images/Screenshot from 2021-10-28 00-50-22.png
+        image: /images/Screenshot from 2021-10-28 00-52-13.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
