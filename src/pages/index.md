@@ -141,7 +141,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Nuestros Servicios
-    subtitle: Grid Section Example
+    subtitle: Te presentamos
     grid_items:
       - type: grid_item
         title: Negocio
