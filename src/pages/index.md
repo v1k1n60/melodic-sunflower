@@ -11,10 +11,6 @@ sections:
       juntos, hagamos #Sinergia
     actions:
       - type: action
-        label: Try Free
-        style: primary
-        url: /pricing
-      - type: action
         label: Learn More
         url: /features
         style: secondary
