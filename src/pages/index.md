@@ -11,7 +11,7 @@ sections:
       juntos, hagamos #Sinergia
     actions:
       - type: action
-        label: Learn More
+        label: Leer mas...
         url: /features
         style: secondary
     image: /images/classic/post-3.png
